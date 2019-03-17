@@ -1,0 +1,187 @@
+﻿body {
+	background-image:url(123456789.png);
+}
+a{
+	text-decoration:none;
+}
+.h1 {
+	background-color:rgba(88,88,88,0.8);
+	width:720px;
+	height:1070px;
+	margin:0 auto;
+	text-align:center;
+	
+}
+.h4 {
+	color:white;
+	margin:0;
+	
+}
+figure {
+	text-align:center;
+	width:120px;
+	float:left;
+	margin:0;
+}
+
+.pyro {
+	color:white;
+	font-weight:bold;
+	font-size:30px;
+	margin:2px;
+	margin-top:20px;
+	font-family:algerian;
+}
+
+.imgh {
+	width:120px;
+	height:90px;
+	float:left;
+	margin:0;
+	background-image:url(button.png);
+	background-position:center;
+	background-size:cover;
+}
+.imgh:hover {
+	background-image:url(button_on2.png);
+}
+.imgh:
+.clear {
+	width:100%;
+	height:1px;
+	clear:both;
+}
+.pyroupdate {
+	margin:0;
+	border:6px inset #848484;
+}
+ .pyro3 {
+	 Font-weight:bold;
+	 
+ }
+.pyro2 {
+	color:white;
+}
+.jungle{
+	width:640px;
+	height:360px;
+	border:6px inset #848484;
+}
+.ScreamFortress {
+color:white;
+
+}
+.ScreamFortress2{
+border:6px inset #848484;
+}
+.Update {
+color:white;
+margin-left:5px;
+text-align:left;
+font-family:algerian;
+	font-weight:bold;
+	font-size:30px;
+
+}
+ul{
+color:white;
+margin-left:5px;
+text-align:left;
+}
+.hlol {
+	background-color:rgba(88,88,88,0.8);
+	width:720px;
+	height:1100px;
+	margin:0 auto;
+	text-align:center;
+}
+.Hlol2 {
+	background-color:rgba(88,88,88,0.8);
+	width:720px;
+	height:2830px;
+	margin:0 auto;
+	text-align:center;
+}
+#toTop {
+width:60px;
+height:52px;
+background-repeat:no-repeat;
+border-radius:70px;
+background-image:url(UPBUTTON2.png);
+text-align:center;
+padding:5px;
+position:fixed;
+bottom:10px;
+right:10px;
+cursor:pointer;
+display:none;
+color:white;
+}
+.Help {
+	background-color:rgba(88,88,88,0.8);
+	width:720px;
+	height:2350px;
+	margin:0 auto;
+	text-align:center;
+}
+.delfy {
+	color:white;
+	font-weight:bold;
+	font-size:30px;
+	margin:2px;
+	margin-top:20px;
+	font-family:algerian;
+	text-decoration:underline;
+}
+.zzz {
+	background-color:rgba(88,88,88,0.8);
+	width:720px;
+	height:5000px;
+	margin:0 auto;
+	text-align:center;
+}
+.ScreamFortress3 {
+	border:6px inset #848484;
+	height:9%;
+}
+.how {
+	background-color:rgba(88,88,88,0.8);
+	width:720px;
+	height:360px;
+	margin:0 auto;
+	text-align:center;
+}
+.hhg {
+	float:left;
+	border:6px inset #848484;
+	background-image:url(delfy1.jpg);
+	height:144px;
+	width:144px;
+	margin:12px;
+	
+	
+}
+.hhg1 {
+float:left;
+	border:6px inset #848484;
+	height:144px;
+	width:144px;
+	margin:12px;
+	background-image:url(peasemaker1.jpg);
+}
+.hhg2 {
+float:left;
+	border:6px inset #848484;
+	height:144px;
+	width:144px;
+	margin:12px;
+	background-image:url(muselk1.jpg)
+}
+.hhg3 {
+float:left;
+	border:6px inset #848484;
+	height:144px;
+	width:144px;
+	margin:12px;
+	background-image:url(gg1.jpg);
+}
